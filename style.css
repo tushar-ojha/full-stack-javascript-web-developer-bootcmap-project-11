@@ -1,0 +1,178 @@
+* {
+    font-family: "Poppins", sans-serif;
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+
+#main-container {
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-top: 2%;
+}
+
+
+
+/* Navigation section started */
+.nav-items {
+    list-style: none;
+}
+
+.logo-container > img {
+    width: 130px;
+}
+
+.nav-item > a {
+    text-decoration: none; 
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-items {
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-around;
+}
+
+.navigation {
+    width: 50%;
+}
+
+
+.nav-item > a {
+    color: grey;
+    margin-top: 7px;
+    display: inline-block;
+}
+
+.nav-item-first > a {
+    color: black;
+}
+
+#register-now-button {
+    color: #1ea1f3;
+    background-color: white;
+    font-weight: 600;
+    padding: 8px;
+    border-radius: 5px;
+    border: solid 1px #1ea1f3;
+}
+
+#register-now-button:hover {
+    cursor: pointer;
+}
+/* Navigation section ended */
+
+
+/* section 1 css */
+section {
+    margin-top: 2%;
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 3%;
+}
+
+.content-area {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.content-area h1 {
+    font-size: 3rem;
+    margin-bottom: 2%;
+}
+
+.content-area p {
+    color: grey;
+    margin-bottom: 3%;
+}
+
+.button-container > button {
+    background-color:#1ea1f3;
+    color: white;
+    padding: 10px;
+    font-weight: 600;
+    border: none;
+    border-radius: 10px;
+}
+
+
+.section-image-container {
+    flex: 1;
+}
+
+.section-image-container > img {
+    margin-left: 10%;
+}
+
+.support-container {
+    display: flex;
+}
+
+
+
+/* Inside services container */
+.heading-para-container {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 4%;
+}
+
+.heading-para-container > h1 {
+    display: inline-block;
+    width: 30%;
+}
+
+.heading-para-container > p {
+    display: inline-block;
+    width: 50%;
+    color: grey;
+}
+
+
+
+/* handling cards */
+.cards {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card {
+    display: flex;
+    padding: 20px;
+    margin: 20px;
+    display: inline-block;
+}
+
+.card-heading-container {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.card-detail-container p {
+    color: grey;
+}
+
+.icon-container > img {
+    width: 50px;
+}
+
+.cards-container {
+    margin-bottom: 5%;
+}
+/* cards section done */
+
+
+
+/* Pricing container starts here */
+
+
+
+
+
+
+
