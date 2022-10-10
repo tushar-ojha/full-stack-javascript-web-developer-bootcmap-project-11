@@ -8,3 +8,10 @@
 
 Design given:
 ![Design](/Design.png)
+
+
+- I took around 15 hours to complete this project.
+  - I estimated that I will be able to complete this project in 6 hours as my previous projects were similar to this. I feel the reason I took so long to complete this project because I had to take break from development for 5 to 6 days and hence my hold over coding got weaker. 
+- Via building this project, my grip on flexbox became a lot stronger.
+  - I faced a challenge which is, flex-wrap was not working in many of the sections. I took help from stackoverflow [link to the corresponding thread](https://stackoverflow.com/questions/44135352/flex-wrap-is-not-wrapping-when-i-reduce-the-window-size) and resolved my issue.
+- I can responsiveness more easily now.
