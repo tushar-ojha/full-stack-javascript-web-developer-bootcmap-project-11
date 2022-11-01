@@ -19,5 +19,5 @@
 - I can responsiveness more easily now.
 
 
-Design given:
+### Design given:
 ![Design](/Design.png)
